@@ -1,4 +1,4 @@
-# Cinema Management System
+# Theatre Reservation System
 
 A Java console application for managing cinema seat bookings.
 
